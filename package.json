@@ -1,0 +1,16 @@
+{
+  "name": "cuketestcafe-dazn-assignment",
+  "version": "0.1.0",
+  "description": "DAZN Test Automation Assignment",
+  "author": "Prashant Netke <nait.kay@gmail.com>",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "cucumber": "^5.1.0",
+    "eslint": "^4.19.1",
+    "npm": "^6.0.0",
+    "testcafe": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
