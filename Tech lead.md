@@ -1,6 +1,8 @@
 # Tech lead
 
-\# What is a technical leader?
+/
+
+//What is a technical leader?
 
 A technical leader, sometimes referred to as a technical lead, is someone who possesses the skills to lead, direct and manage technical projects. They may work with software development teams, engineering teams or other teams that conduct technical tasks. In addition to coordinating projects from start to finish, they may also have responsibilities related to overseeing testing and quality assurance tasks for their teams. A technical lead may also help coordinate tasks between various departments on a project.
 
@@ -88,22 +90,22 @@ Let employers find you when you create an Indeed Resume
 
 Here are some additional skills that technical leaders often have:
 
- Critical thinking:\* Critical thinking skills involve the ability to evaluate a situation and determine how you can best deal with a problem or opportunity. It involves thinking independently, analysing information from multiple sources, identifying assumptions and determining the risks associated with your decisions.
+Critical thinking:\* Critical thinking skills involve the ability to evaluate a situation and determine how you can best deal with a problem or opportunity. It involves thinking independently, analysing information from multiple sources, identifying assumptions and determining the risks associated with your decisions.
 
- Commitment:\* This means having a commitment to the completion of a project and seeing it through to its end. You can demonstrate this commitment by focusing on tasks that may help you achieve your goal, working on them until completion and helping your team meet their goals as well.
+Commitment:\* This means having a commitment to the completion of a project and seeing it through to its end. You can demonstrate this commitment by focusing on tasks that may help you achieve your goal, working on them until completion and helping your team meet their goals as well.
 
- Computer knowledge:\* Computer knowledge includes the ability to use computers effectively, including their hardware and software. This also includes a basic understanding of computer programming languages, computer networking and computer security issues.
+Computer knowledge:\* Computer knowledge includes the ability to use computers effectively, including their hardware and software. This also includes a basic understanding of computer programming languages, computer networking and computer security issues.
 
- Creativity:\* This involves having an innovative approach and using your imagination when dealing with tasks and problems. It involves thinking about innovations that may help you achieve your goal and coming up with unique solutions that resolve difficult problems or issues.
+Creativity:\* This involves having an innovative approach and using your imagination when dealing with tasks and problems. It involves thinking about innovations that may help you achieve your goal and coming up with unique solutions that resolve difficult problems or issues.
 
- Empathy:\* This involves having a basic understanding of the feelings and emotions of others involved with a project. It also involves being able to demonstrate or exhibit empathy by being open to feedback from your team members.
+Empathy:\* This involves having a basic understanding of the feelings and emotions of others involved with a project. It also involves being able to demonstrate or exhibit empathy by being open to feedback from your team members.
 
- Decision-making:\* This refers to the ability to make decisions independently without consulting others or waiting for others to make a decision for you. It can involve the ability to prioritise tasks and decide which tasks require immediate attention and focus.
+Decision-making:\* This refers to the ability to make decisions independently without consulting others or waiting for others to make a decision for you. It can involve the ability to prioritise tasks and decide which tasks require immediate attention and focus.
 
- Time management:\* This means having the ability to plan your time, prioritise your tasks and effectively determine how you can get things done efficiently. It involves determining the priority of tasks.
+Time management:\* This means having the ability to plan your time, prioritise your tasks and effectively determine how you can get things done efficiently. It involves determining the priority of tasks.
 
- Negotiation skills:\* Negotiation skills involve the ability to make the best deals possible with other companies or groups of individuals. It involves discussing issues, identifying options and finding solutions that benefit both parties involved in a project or transaction.
+Negotiation skills:\* Negotiation skills involve the ability to make the best deals possible with other companies or groups of individuals. It involves discussing issues, identifying options and finding solutions that benefit both parties involved in a project or transaction.
 
- Project management:\* This involves the ability to plan out your work, keep track of activities and stay on track with your goals. It also involves having an understanding of how to use technologies such as computer software for project management purposes.
+Project management:\* This involves the ability to plan out your work, keep track of activities and stay on track with your goals. It also involves having an understanding of how to use technologies such as computer software for project management purposes.
 
-\#personal
+#personal
