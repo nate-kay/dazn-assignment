@@ -1,18 +1,16 @@
 # Tech lead
 
-/
-
-//What is a technical leader?
+## What is a technical leader?
 
 A technical leader, sometimes referred to as a technical lead, is someone who possesses the skills to lead, direct and manage technical projects. They may work with software development teams, engineering teams or other teams that conduct technical tasks. In addition to coordinating projects from start to finish, they may also have responsibilities related to overseeing testing and quality assurance tasks for their teams. A technical lead may also help coordinate tasks between various departments on a project.
 
-\# What does a technical leader do?
+### What does a technical leader do?
 
 Here is a list of their common job responsibilities:
 
-\* Provides technical direction to their team
+-  Provides technical direction to their team
 
-\* Manages the team by establishing objectives and goals
+- Manages the team by establishing objectives and goals
 
 \* Organises the project work in terms of tasks, deliverables and timing
 
